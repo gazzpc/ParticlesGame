@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.particula{
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+  color: white;
+	background-color: red;
+  cursor: pointer;
+  font-family: Sans-serif;
+  line-height: 30px;
+  text-align: center;
+  -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -o-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}
+
+.superParticula{
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+  color: white;
+	background-color: yellow;
+    color: black;
+  cursor: pointer;
+  font-family: Sans-serif;
+  line-height: 50px;
+  text-align: center;
+  font-size: 1.5em;
+  -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -o-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}
